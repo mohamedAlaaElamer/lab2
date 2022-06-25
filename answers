@@ -4,3 +4,6 @@ git push origin :dev
 To delete a local branch
 git branch -d dev
 git branch -D dev
+
+To list existing tags
+git tag
